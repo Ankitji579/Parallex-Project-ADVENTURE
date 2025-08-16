@@ -16,10 +16,10 @@ This project demonstrates how to create depth and 3D-like scrolling effects usin
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](images/homepage.png)
+![Homepage Screenshot](homepage.png)
 
 ### Scrolling Effect
-![Scrolling Screenshot](images/scrolling.png)
+![Scrolling Screenshot](scrolling.png)
 
 ---
 
